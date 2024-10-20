@@ -1,0 +1,6 @@
+input_file=input.txt
+lang_code=en
+output=screen
+char_count=45
+word_count=7
+sentence_count=1
